@@ -1,3 +1,6 @@
+![](W4key.gif)
+
+```
 #!/usr/bin/python
 
 
@@ -31,3 +34,5 @@ print result
 
 # Close the socket
 s.close()
+
+```
